@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proyecto</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="adapter_name">adaptador</string>
+   	<string name="menu_configuracion_name">Configuracion</string>
+   	<string name="menu_acercade_name">Acerca de Proyecto</string>
+	<string name="btaceptar_label">Aceptar</string>   	
+
+</resources>
